@@ -15,4 +15,5 @@ match dia:
         print("Sexta")
     case 7:
         print("Sábado")
-        
+    case _:
+        print("Dia inválido")
